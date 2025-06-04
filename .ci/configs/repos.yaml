@@ -1,2 +1,2 @@
 repos::
-  - ${CI_PROJECT_DIR}/python/spack_repo/builtin
+  - ${CI_PROJECT_DIR}/repos/spack_repo/builtin
